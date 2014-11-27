@@ -1,0 +1,18 @@
+<resources>
+    <color name="primary">#9c27b0</color>
+    <color name="primary_dark">#8e24aa</color>
+    <color name="primary_light">#f3e5f5</color>
+    <color name="light_purple">#1Aede7f6</color>
+    <color name="secondary">#5c6bc0</color>
+    <color name="accent">#d81b60</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="light_blue">#1Ae8eaf6</color>
+    <color name="boarder_color">#ebebeb</color>
+    <color name="board">#F9F9F9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="pencil">#464646</color>
+    <color name="gray_board">#f7f7f7</color>
+    <color name="dark_board">#F1F1F1</color>
+    <color name="light_pencil">#888888</color>
+    <color name="purple">#673ab7</color>
+</resources>

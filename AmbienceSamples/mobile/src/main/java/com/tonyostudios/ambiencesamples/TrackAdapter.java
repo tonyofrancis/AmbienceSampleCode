@@ -57,7 +57,7 @@ public class TrackAdapter extends ArrayAdapter<AmbientTrack> {
                 //Create a one track playlist and send to ambient service
                 Ambience.activeInstance()
                         .setPlaylistTo(new AmbientTrack[]{mData[position]})
-                        .setNotificationLaunchActivity(MainActivity.packageName,MainActivity.ActivityName)
+                        .setNotificationLaunchActivity(mContext.getString(R.string.notification_identifier))
                         .play();
 
             }

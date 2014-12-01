@@ -2,5 +2,6 @@
 <resources>
 
     <string name="app_name">AmbienceSamples</string>
+    <string name="notification_identifier">com.tonyostudios.ambiencesamples.tv.notification</string>
 
 </resources>

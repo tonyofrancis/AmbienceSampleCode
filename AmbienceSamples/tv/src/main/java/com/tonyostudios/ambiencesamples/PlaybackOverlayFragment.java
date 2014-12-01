@@ -90,7 +90,7 @@ implements Ambience.AmbientListener {
         //Listen for AmbientUpdates
         Ambience.activeInstance()
                 .listenForUpdatesWith(this)
-                .setNotificationLaunchActivity(MainActivity.packageName,MainActivity.activityName);
+                .setNotificationLaunchActivity(getString(R.string.notification_identifier));
 
         play(); //start playing track
 

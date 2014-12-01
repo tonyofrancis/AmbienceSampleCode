@@ -4,5 +4,6 @@
     <string name="app_name">AmbienceSamples</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="notification_identifier">com.tonyostudios.ambiencesamples.mobile.notification</string>
 
 </resources>

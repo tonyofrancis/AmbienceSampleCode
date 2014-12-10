@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/tonyofrancis/Documents/Git/AmbienceSampleCode/MediaBrowserService/Application/src/main/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Material">
+        <!-- colorPrimary is used for Notification icon and bottom facet bar icons
+        and overflow actions -->
+        <item name="android:colorPrimary">#ffff5722</item>
+
+        <!-- colorPrimaryDark is used for background -->
+        <item name="android:colorPrimaryDark">#ffbf360c</item>
+
+        <!-- colorAccent is sparingly used for accents, like floating action button highlight,
+        progress on playbar-->
+        <item name="android:colorAccent">#ffff5722</item>
+
+    </style>
+</resources>

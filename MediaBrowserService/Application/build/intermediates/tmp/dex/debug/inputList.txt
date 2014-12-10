@@ -1,0 +1,7 @@
+/Users/tonyofrancis/Documents/Git/AmbienceSampleCode/MediaBrowserService/Application/build/intermediates/classes/debug
+/Users/tonyofrancis/Documents/Git/AmbienceSampleCode/MediaBrowserService/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-947ea24f5947f690ef9de3cc1a809c3e858ea202.jar
+/Users/tonyofrancis/Documents/Git/AmbienceSampleCode/MediaBrowserService/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-b394281e1ad36699691ab188195dcc4f5e77e808.jar
+/Users/tonyofrancis/Documents/Git/AmbienceSampleCode/MediaBrowserService/Application/build/intermediates/pre-dexed/debug/classes-1130ecfe9bb0172e02b4d7e4e092f1f587418491.jar
+/Users/tonyofrancis/Documents/Git/AmbienceSampleCode/MediaBrowserService/Application/build/intermediates/pre-dexed/debug/classes-8a6cc451b2e84a1d55da771e5f62b70c279645c7.jar
+/Users/tonyofrancis/Documents/Git/AmbienceSampleCode/MediaBrowserService/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-c36530a52010e926087217e9c50ca5c11f3978ee.jar
+/Users/tonyofrancis/Documents/Git/AmbienceSampleCode/MediaBrowserService/Application/build/intermediates/pre-dexed/debug/classes-4abb15f56c13e19444fe8f973ce523ac6cc7c19c.jar
